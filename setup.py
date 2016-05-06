@@ -26,7 +26,7 @@ setup(
     author="Thomas Voegtlin",
     author_email="thomasv1@gmx.de",
     license="GNU Affero GPLv3",
-    url="https://github.com/pooler/electrum-gmc-server/",
+    url="https://github.com/Gamecredits-Universe/electrum-gmc-server/",
     long_description="""Server for the Electrum Lightweight Gamecredits Wallet"""
 )
 
